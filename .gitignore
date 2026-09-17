@@ -1,0 +1,23 @@
+# Personal settings (the template is safe to publish).
+config.json
+claude-via-server.config.json
+*.local.json
+# Never commit SSH identities or browser sessions.
+.ssh/
+keys/
+*.pem
+*.key
+*.ppk
+*.pub
+id_*
+known_hosts*
+ChromeProfile/
+User Data/
+profiles/
+*.log
+logs/
+backup*/
+*.zip
+dist/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+{
+  "Server": "",
+  "User": "",
+  "SshPort": 22,
+  "PrivateKeyPath": "",
+  "ChromePath": "",
+  "LocalSocksPort": 1080,
+  "ChromeProfilePath": "%LOCALAPPDATA%/ClaudeTrans/ChromeProfile",
+  "ConnectTimeoutSeconds": 180
+}
